@@ -1,0 +1,24 @@
+@import "https://www.nerdfonts.com/assets/css/webfont.css"
+
+Icons to consider:
+
+ - Fruits - <i class="nf-fae-apple_fruit"></i>
+󱁂 - Fruits - <i class="nf-md-fruit_cherries"></i>
+󱏸 - Out of Fruits - <i class="nf-md-fruit_cherries_off"></i>
+ - Herbs - <i class="nf-fae-plant"></i>
+󱐟 - Meats - <i class="nf-md-food_drumstick"></i>
+󱑨-- Out of Meats - <i class="nf-md-food_drumstick_off"></i>
+ - Meats - <i class="nf-fae-meat"></i>
+ - Bread - <i class="nf-fae-bread"></i>
+󰪯 - Eggs - <i class="nf-md-egg"></i>
+󱞖 - Seasonal Items - <i class="nf-md-sun_snowflake"></i>
+󰍂 - Login - <i class="nf-md-login"></i>
+󰍃 - Logout - <i class="nf-md-logout"></i>
+ - Home - <i class="nf-fa-home"></i>
+󰡃 - Dashboard - <i class="nf-md-view_dashboard_variant"></i>
+󱗫 - Shopping Cart - <i class="nf-md-cart_variant"></i>
+󰓜 - Store - <i class="nf-md-store"></i>
+ - Products - <i class="nf-fa-shopping_bag"></i>
+󱃕 - List of Products - <i class="nf-md-clipboard_list_outline"></i>
+󰦯 - 2FA - <i class="nf-md-two_factor_authentication"></i>
+ - Profile - <i class="nf-oct-feed_person"></i>

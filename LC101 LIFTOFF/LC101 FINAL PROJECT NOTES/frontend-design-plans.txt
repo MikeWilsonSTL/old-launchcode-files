@@ -1,0 +1,20 @@
+Guidelines
+
+Heading texts should have slight negative spacing
+
+50-75 characters for body test
+
+normal paragraph around 18px
+
+for text 600 pixels for desktop screen
+
+dont over use font sizes to communicate hierarchy
+
+stick with JUST TWO different font sizes and use font weight 
+and subtle color changes to communicate hierarchy
+
+"Whitespacs is to be regarded as an active element, not a passive background."
+
+Group of elements -> whats their relationship? -> some have closer than others
+
+use 1x measurements: a heading -> 1x -> a body -> 2x -> b heading -> 1x -> b body

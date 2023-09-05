@@ -1,0 +1,12 @@
+IDEA 2 : Music collab app - audio and text
+========================================================================
+Music collab app - audio and text
+
+Notes:
+Not necesarily doing from scratch.
+consider GA#4 as a template
+
+login search edit delete, soundcloud api, google docs api
+https://developers.google.com/docs/api/reference/rest
+https://developers.soundcloud.com/
+https://developers.soundcloud.com/docs/api/guide

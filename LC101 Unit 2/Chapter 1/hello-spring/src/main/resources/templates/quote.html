@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Quote of the Moment</title>
+    <link rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+          crossorigin="anonymous">
+</head>
+<body style="background-color: #8c8273;">
+<div class="container" style="padding-top: 15em; filter: drop-shadow(8px 8px 4px black);">
+    <div class="jumbotron">
+        <h1 class="display-4">Quote of the Moment:</h1>
+        <p th:text="${quote}" class="lead"></p>
+        <hr class="my-4">
+        <p>Exploring APIs, Bootstrap, and CSS overrides within Thymeleaf.</p>
+<!--        <p class="lead">-->
+<!--            <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>-->
+<!--        </p>-->
+    </div>
+    <!--    <div class="row">-->
+    <!--        <table class="table table-responsive table-bordered table-striped">-->
+    <!--            <thead>-->
+    <!--            <tr>-->
+    <!--                <th>Employee First Name</th>-->
+    <!--                <th>Employee Last Name</th>-->
+    <!--                <th>Employee Email</th>-->
+    <!--            </tr>-->
+    <!--            </thead>-->
+    <!--            <tbody>-->
+    <!--            <tr th:each="employee : ${employees}">-->
+    <!--                <td th:text="${employee.firstName}"></td>-->
+    <!--                <td th:text="${employee.lastName}"></td>-->
+    <!--                <td th:text="${employee.email}"></td>-->
+    <!--            </tr>-->
+    <!--            </tbody>-->
+    <!--        </table>-->
+    <!--    </div>-->
+</div>
+</body>
+</html>

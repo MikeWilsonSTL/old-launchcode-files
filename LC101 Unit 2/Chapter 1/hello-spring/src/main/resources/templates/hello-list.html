@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title>hellolist.html</title>
+</head>
+<body>
+<h1>hellolist.html</h1>
+<p>We out here.</p>
+<ul>
+    <th:block th:each="name : ${names}">
+        <li th:text="${name}"></li>
+    </th:block>
+</ul>
+</body>
+</html>

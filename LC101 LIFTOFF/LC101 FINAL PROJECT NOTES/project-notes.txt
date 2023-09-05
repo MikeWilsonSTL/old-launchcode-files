@@ -1,0 +1,43 @@
+https://www.baeldung.com/spring-security-two-factor-authentication-with-soft-token
+
+I'm treating this as a 6 week project
+
+2-3 features per person
+  -light/dark mode
+    -create globally scoped variablle to maintain state across entire app
+    -make it a boolean value
+    -true = light
+    -false = dark
+    -if(mode) light else dark
+  -logo design/general ui/ux
+  -integration of an external API
+  -animation?
+  -search feature
+  -authentication
+  -responsive design
+    -would have to be more than just vanilla bootstrap
+  -accessibility
+
+end of week 7
+  
+one break week (will still be working)
+  -maybe include a stretch goal
+
+approach project iteratively
+
+Project Flow/Collaboration
+  branches matter
+  NEVER push to main
+  always be aware from where you're branching
+
+MVP:
+Inventory database completed
+Front-facing part of website completed
+Well designed UI/UX
+Users can acquire basic items
+Authentication
+
+My action items:
+logo
+
+
